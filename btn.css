@@ -1,0 +1,261 @@
+.navbar-expand-md{
+	background-color:#00918e;
+
+
+}
+.navbar-nav .nav-item .nav-link{
+	margin-left:50px;
+	font-size:20px;
+}
+.mar{
+	margin:25px 0px 35px 0px;
+}
+.top-section{
+	background-color:#00918e; 
+	font-family: 'Fredoka One', cursive;
+	color: white;
+}
+nav .container .navbar-brand{
+	font-family: 'Pacifico', cursive;
+	color:white;
+	font-size: 3.25rem;
+
+}
+
+.top-section .title .col-6{
+	width:900px;
+
+}
+
+.top-section .title .head{
+	font-size:4.0rem;
+	margin-left:20px;
+	margin-top:0px;
+	text-align: center;
+}
+.top-section .img{
+
+}
+
+.title .btn{
+	font-family: 'Josefin Sans', sans-serif;
+	margin:40px 0px 40px 30px;
+	font-weight:bold;
+}
+
+.services h1{
+	text-align: center;
+	margin-top:80px;
+	font-weight:bolder;
+
+}
+.middle-section{
+	text-align:center;
+}
+
+.middle-section .margins{
+	margin:120px 20px 0 20px;
+}
+.middle-section .feature p{
+	font-weight:bold;
+	color:gray;
+
+
+}
+
+.middle-section .feature h3{
+	font-weight:bold;
+	margin-top:20px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+
+}
+.middle-section .ab{
+	font-size:90px;
+	color:#02a8a8;
+}
+
+.middle-section .ab:hover{
+	color:#00918e;
+}
+
+.profit h1{
+	background-color: #02a8a8;
+	margin-bottom:0;
+	margin-top:130px;
+	padding-top:80px;
+	text-align: center;
+	color:white;
+	font-weight:bold;
+}
+
+.carousel-item{
+	background-color: #02a8a8;
+	height:500px;
+	weidth:100%;
+}
+
+.carousel-caption .d-block{
+	margin-bottom:20px;
+}
+.carousel-caption h1{
+	margin-bottom:30px;
+}
+
+.carousel-caption p{
+	margin-bottom:60px;
+}
+
+.price h1{
+	text-align: center;
+	margin-top:80px;
+	margin-bottom:70px;
+	font-weight:bolder;
+
+}
+
+.web-cards .card{
+	margin-bottom:120px;
+	text-align: center;
+	
+}
+
+.web-cards .card h3, a{
+	
+	font-weight:bold;
+}
+
+.about h1{
+	text-align: center;
+	font-weight: bold;
+	margin-top:80px;
+}
+
+.about .container{
+	margin-top:100px;
+
+}
+
+.about .container h2{
+	font-weight:bold;
+}
+
+.about .container p{
+	font-weight:bold;
+	color:grey;
+}
+
+/*Top container*/
+
+.about .container .top{
+	margin-top:50px;
+}
+
+.about .top .img1{
+	float: left;
+	margin-right:60px;
+}
+
+
+/*Middle container*/
+
+.about .container .middle{
+	margin-top:80px;
+}
+
+.about .middle .img2{
+	float: right;
+	margin-left:60px;
+}
+
+/*Middle container*/
+
+.about .container .bottom{
+	margin-top:80px;
+}
+
+.about .bottom .img3{
+	float: left;
+	margin-right:60px;
+}
+
+
+/*contact us*/
+
+.contact .cont-us{
+	text-align: center;
+	color: white;
+	padding-top:70px;
+}
+
+.contact{
+	background-color: #02a8a8;
+	margin-top:60px;
+	
+
+}
+
+
+.contact .comm{
+	color:white;
+	margin-top:80px;
+	margin-bottom:80px;
+}
+
+
+
+/*Footer*/
+
+.footer{
+	background-color: #02a8a8;
+	margin-top:140px;
+	margin-bottom:0;
+}
+
+.footer .last-brand h1{
+	font-family: 'Pacifico', cursive;
+	color:white;
+	font-size: 3.25rem;
+	text-align:center;
+	padding-top:60px;
+}
+.footer .prob{
+	text-align: center;
+	width:500px;
+	margin-left:0;
+}
+
+.footer .prob ul {
+  list-style-type: none;
+  overflow: hidden;
+  margin-top:40px;
+
+ 
+  
+  
+}
+
+.footer .prob li a {
+  display: block;
+  color:#018383;
+  padding: 8px 16px;
+  text-decoration: none;
+
+
+}
+
+
+.footer .prob li {
+ float: left;
+    margin-right:25px;
+    text-align: center;
+
+}
+
+
+/* Change the link color on hover */
+.footer .list ul li a:hover {
+  
+  color: #016565;
+}
+
